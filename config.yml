@@ -1,0 +1,5 @@
+baseurl     : "http://abhijit.mamarde.com"
+title       : "Abhijit's Blog"
+params:
+  description: "Write to express, feel, learn..."
+  author: "Abhijit"

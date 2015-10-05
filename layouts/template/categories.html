@@ -1,0 +1,15 @@
+<!--
+  This file is a template that is included various places to have a list of
+  that particular posts categories generated.
+-->
+
+<div class="well">
+<em>Categories: </em>
+
+<ul class="list-group">
+{{ range .Params.categories }}
+  <li class="list-group-item"><a href="/categories/{{ . | urlize }}">{{ . }}</a></li>
+{{ end }}
+</ul>
+
+</div>
