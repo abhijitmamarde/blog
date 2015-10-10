@@ -1,6 +1,7 @@
 baseurl     : "http://abhijit.mamarde.com"
 title       : "Abhijit's Blog"
 disqusShortname : "mamarde"
+MetaDataFormat: yaml
 params:
   description: "Write to express, feel, learn..."
   author: "Abhijit"
