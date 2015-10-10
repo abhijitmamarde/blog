@@ -9,24 +9,21 @@ date: "2015-10-04"
 __Welcome__ to my blog. I have started this own blogging site finally. 
 I usually scribble to understand a concept better. So, you would find my blogs would contain sort of notes for my own or something I really want to share. 
 
-#### So let's start
-
-> You write you learn, you learn and you evolve!
-
-Created with <3 using 
+### Created with <3 using
 
 1. Sublime Text3 + [MarkdownEditing](https://packagecontrol.io/packages/MarkdownEditing)
 2. Hugo
 3. Bootstrap
 
 ```python
-print "test"
+print "Hello World !!!"
 ```
 
-Keyword <kbd>CTRL</kbd> <kbd>C</kbd>
+<kbd>CTRL</kbd>&nbsp;<kbd>ALT</kbd>&nbsp;<kbd>DEL</kbd>
 
-this is ~~ strike ~~ through
 
-----
+#### So let's start
 
-Thanks
+> You _write_, you _learn_, <br>
+> you learn _and_ you _Evolve_! <br>
+> - Abhijit 
