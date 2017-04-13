@@ -1,7 +1,7 @@
 ---
 title: "Awesome Sublime"
 description: "Why I love Sublime Text..."
-date: "2015-10-05"
+date: "2017-02-01"
 ---
 
 # Sublime is Awesome

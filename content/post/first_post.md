@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 description: "My first step towards this blog"
-date: "2015-10-04"
+date: "2017-01-01"
 ---
 
 ## Hey reader!
