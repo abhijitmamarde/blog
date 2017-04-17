@@ -2,6 +2,7 @@
 title: "Using datepicker with Vuejs2"
 description: "How to make it work..."
 date: "2017-04-13"
+tags: [ "Development", "VueJS", "datepicker" ]
 ---
 
 # Using datepicker with Vuejs2

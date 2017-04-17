@@ -2,6 +2,7 @@
 title: "Awesome Sublime"
 description: "Why I love Sublime Text..."
 date: "2017-02-01"
+tags: [ "Notes", "Sublime" ]
 ---
 
 # Sublime is Awesome
