@@ -19,6 +19,7 @@ $ pex requests -o myenv.pex
 - the list of dependencies here is just `requests` package
 - can add more than one dependencies like below:
 	```bash
+	# etc below is just the placeholder!
 	$ pex requests flask etc -o myenv.pex
 	```
 - to pin the package to a particular version use:
