@@ -12,7 +12,7 @@ tags: [ "python", "virtualenv", "tool", "executable" ]
 # Creating `pex`
 
 to create an environment with `pex`:
-```
+```bash
 $ pex requests -o myenv.pex
 ```
 
